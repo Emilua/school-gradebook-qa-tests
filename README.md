@@ -1,4 +1,5 @@
 school-gradebook-qa-tests
+
 Manual QA project for testing an electronic school gradebook. Includes test cases for login functionality, assessment management, boundary value analysis of the comment field, and pairwise testing of the support form. Demonstrates practical testing techniques and structured QA documentation
 
 Test_Suites:

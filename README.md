@@ -17,3 +17,7 @@ This test suite verifies the filling and submission of the technical support con
 The test cases are designed using the Pairwise Testing test design technique.
 They cover validation of the following input fields: Full Name, Phone Number, Email Address, Position, School, and Message Text.
 
+For test case details, please follow the link
+https://docs.google.com/spreadsheets/d/13LD8o7iLNWUj7X5uG0UDZ3gXkncOdYoj/
+edit?usp=sharing&ouid=115063060712612082876&rtpof=true&sd=true
+
